@@ -1,0 +1,26 @@
+.home-template .container {
+  padding: 40px;
+}
+
+.home-template nav > a {
+  text-decoration: none;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  display: block;
+  color: #0297f6;
+}
+
+.back-link {
+  text-decoration: none;
+  font-style: italic;
+  color: #0297f6;
+}
+
+.home-template h1 {
+  margin-bottom: 30px;
+}
+
+.home-template i {
+  font-size: .9em;
+}
