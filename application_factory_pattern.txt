@@ -1,0 +1,11 @@
+/app
+├── /application
+│   ├── /static
+│   └── /templates
+│   ├── __init__.py <-- creation of Flask app object
+│   ├── auth.py
+│   ├── forms.py
+│   ├── models.py
+│   └── routes.py
+├── config.py
+└── wsgi.py <-- app gateway
