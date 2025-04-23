@@ -1,2 +1,3 @@
 # flask-jinja-tut
-Learning Flask
+Learning Flask from:
+ * https://hackersandslackers.com/series/build-flask-apps/
