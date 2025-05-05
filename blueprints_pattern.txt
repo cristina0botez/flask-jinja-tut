@@ -1,0 +1,23 @@
+/flask-blueprint-tutorial
+├── /flask_blueprint_tutorial
+│   ├── __init__.py
+│   ├── assets.py
+│   ├── api.py
+│   ├── /home
+│   │   ├── /templates
+│   │   ├── /static
+│   │   └── routes.py
+│   ├── /profile
+│   │   ├── /templates
+│   │   ├── /static
+│   │   └── routes.py
+│   ├── /products
+│   │   ├── /templates
+│   │   ├── /static
+│   │   └── routes.py
+│   ├── /static
+│   └── /templates
+├── README.md
+├── config.py
+├── requirements.txt
+└── wsgi.py
