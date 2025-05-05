@@ -8,7 +8,8 @@ from .forms import ContactForm, SignupForm
 def home():
     nav = [
         {'name': 'Sign Up', 'url': url_for('signup')},
-        {'name': 'Contact Us', 'url': url_for('contact')}
+        {'name': 'Contact Us', 'url': url_for('contact')},
+        {'name': 'Products Home', 'url': url_for('home_bp.home')}
     ]
     return render_template(
         'home.html',
